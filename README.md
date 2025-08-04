@@ -129,7 +129,7 @@ network-scan-analysis/
 
 #-> Nmap Scan
 
-<img width="500" height="400" alt="nmap-scan" src="https://github.com/user-attachments/assets/281adcb0-47bf-496a-b858-f15f2ce6c05b" />
+![nmap-scan](https://github.com/user-attachments/assets/810e5faa-0634-4c58-a853-3e8f0576f12b)
 
 #-> Wireshark Scan
 
