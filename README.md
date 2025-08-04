@@ -124,10 +124,13 @@ network-scan-analysis/
 
 ## Screenshots
 #-> ip -a
-<img width="834" height="666" alt="ip-a" src="https://github.com/user-attachments/assets/3b7aed74-aaa2-4164-b76a-283eaf5e1018" />
+
+<img width="500" height="400" alt="ip-a" src="https://github.com/user-attachments/assets/3b7aed74-aaa2-4164-b76a-283eaf5e1018" />
 
 #-> Nmap Scan
-<img width="1919" height="938" alt="nmap-scan" src="https://github.com/user-attachments/assets/281adcb0-47bf-496a-b858-f15f2ce6c05b" />
+
+<img width="500" height="400" alt="nmap-scan" src="https://github.com/user-attachments/assets/281adcb0-47bf-496a-b858-f15f2ce6c05b" />
 
 #-> Wireshark Scan
-<img width="1919" height="761" alt="wireshark" src="https://github.com/user-attachments/assets/43e59521-b4bf-430a-adde-0d088c6cffc5" />
+
+<img width="500" height="600" alt="wireshark" src="https://github.com/user-attachments/assets/43e59521-b4bf-430a-adde-0d088c6cffc5" />
