@@ -8,25 +8,25 @@ PORT    STATE    SERVICE
 53/tcp  open     domain
 80/tcp  open     http
 443/tcp open     https
-MAC Address: 64:FB:92:44:1C:2B (PPC Broadband)
+MAC Address: -------- (PPC Broadband)
 
 Nmap scan report for 192.168.1.71
 Host is up (0.077s latency).
 All 1000 scanned ports on 192.168.1.71 are in ignored states.
 Not shown: 1000 filtered tcp ports (no-response)
-MAC Address: D0:55:09:61:D0:3C (Nintendo)
+MAC Address: ------- (Nintendo)
 
 Nmap scan report for 192.168.1.77
 Host is up (0.00023s latency).
 All 1000 scanned ports on 192.168.1.77 are in ignored states.
 Not shown: 1000 filtered tcp ports (no-response)
-MAC Address: 94:BB:43:77:62:CD (Unknown)
+MAC Address: -------- (Unknown)
 
 Nmap scan report for 192.168.1.85
 Host is up (0.056s latency).
 All 1000 scanned ports on 192.168.1.85 are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
-MAC Address: 26:D0:30:08:57:16 (Unknown)
+MAC Address: --------- (Unknown)
 
 Nmap scan report for 192.168.1.73
 Host is up (0.0000040s latency).
